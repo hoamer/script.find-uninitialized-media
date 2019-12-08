@@ -8,9 +8,7 @@ With this easy script you have two options:
 	* Let the script run and cancel to write a list to the disc
 
 
-============
-Installation
-============
+## Installation
 
 Launch Kodi >> Add-ons >> Get More >> .. >> Install from zip file
 
