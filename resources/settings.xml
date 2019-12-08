@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="000001">
+        <setting label="000002" type="text" id="kodiLog" default="/var/lib/kodi/.kodi/temp/kodi.log"/>
+        <setting label="000003" type="text" id="outputFile" default="/var/lib/kodi/.kodi/temp/foundUninitializedFiles.txt"/>
+    </category>
+</settings>

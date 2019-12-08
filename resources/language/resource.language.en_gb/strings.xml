@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<string id="000001">Settings</string>
+
+	<!-- Error messages -->
+    <string id="000002">Kodi Logfile (where to search for strings)</string>
+	<string id="000003">Where to store textfile of not found files</string>
+
+</strings>
